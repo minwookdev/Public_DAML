@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d2cdf9ce623c00749ab95d64132a6e7d
+  m_SerializeEntries:
+  - m_GUID: a92e9c47d897f7f489468d0b3438d3b8
+    m_Address: Effect_hit_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77a076f789b2f0d4e91ce425d6c88818
+    m_Address: Effect_hit_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a7a0aa0593528b42993c797ea523d7b
+    m_Address: Effect_hit_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3744679e92eacbd41b631f122dbdb476
+    m_Address: Concentration
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 364b4a71ff5388b4596a8dd5bfe8d45c, type: 2}
+    - {fileID: 11400000, guid: 93ef05f6d58245849ab7cee27d123a6e, type: 2}

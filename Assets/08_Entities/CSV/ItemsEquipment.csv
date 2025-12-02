@@ -1,0 +1,39 @@
+idx,Id,NameKey,DescKey,IconKey,Amount,Price,Grade,Type,IsUpdated,EquipType,AddMaxHP,AddDamage,AddDefence,AddGrantSkillId,AddSkillChainCount,AddProjectileCount,AddMoveSpeed,AddPenetration,AddMaxHPRatio,AddHPRegenPerSeconds,AddCoolTimeReductionRatio,AddCriticalChance,AddCriticalMultiplier,AddItemAcquisitionRange,AddMonsterFindRange,AddSkillRangeRatio,AddExpGainRatio,AddGoldGainRatio,AddItemDropRateRatio
+,Weapon: 31xx,Armor: 32xx,Gloves: 33xx,Shoes: 34xx,ring: 35xx,,Artifact: 36xx,,,,,,,,,,,,,,,,,,,,,,
+,int,string,string,string,int,int,enum,enum,bool,enum,int,int,int,int,int,int,int,int,float,float,float,float,float,float,float,float,float,float,float
+0,3100,mystic staff(t1),일반 수치 지팡이,icon_item_staff_mythic,1,0,1,3,true,0,0,4,0,0,0,0,0,0,0,0,0,3,0.1,0,0,0,0,0,0
+1,3101,mystic staff(t2),일반 수치 지팡이,icon_item_staff_mythic,1,0,1,3,true,0,0,6,0,0,0,0,0,0,0,0,0,4,0.15,0,0,0,0,0,0
+2,3102,mystic staff(t3),일반 수치 지팡이,icon_item_staff_mythic,1,0,1,3,true,0,0,8,0,0,0,0,0,0,0,0,0,5,0.2,0,0,0,0,0,0
+3,3103,ruby staff(t1),높은 공격력 지팡이,icon_item_staff_ruby,1,0,1,3,true,0,0,12,0,0,0,0,0,0,0,0,0,3,0.1,0,0,0,0,0,0
+4,3104,ruby staff(t2),높은 공격력 지팡이,icon_item_staff_ruby,1,0,1,3,true,0,0,16,0,0,0,0,0,0,0,0,0,4,0.2,0,0,0,0,0,0
+5,3105,ruby staff(t3),높은 공격력 지팡이,icon_item_staff_ruby,1,0,1,3,true,0,0,20,0,0,0,0,0,0,0,0,0,5,0.3,0,0,0,0,0,0
+6,3106,sapire staff(t1),쿨타임 감소 지팡이,icon_item_staff_sapphire,1,0,1,3,true,0,0,5,0,0,0,0,0,0,0,0,0.1,2,0.1,0,0,0,0,0,0
+7,3107,sapire staff(t2),쿨타임 감소 지팡이,icon_item_staff_sapphire,1,0,1,3,true,0,0,5,0,0,0,0,0,0,0,0,0.15,2,0.1,0,0,0,0,0,0
+8,3108,sapire staff(t3),쿨타임 감소 지팡이,icon_item_staff_sapphire,1,0,1,3,true,0,0,5,0,0,0,0,0,0,0,0,0.2,2,0.1,0,0,0,0,0,0
+9,3200,mystic robe(t1),일반 수치 방어구,icon_item_robe_mystic,1,0,1,3,true,1,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,3201,mystic robe(t2),일반 수치 방어구,icon_item_robe_mystic,1,0,1,3,true,1,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,3202,mystic robe(t3),일반 수치 방어구,icon_item_robe_mystic,1,0,1,3,true,1,30,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,3203,robe of defensive magic(t1),방어 마법 시전 방어구 (약간 높은 방어 수치),icon_item_robe_defensive,1,0,1,3,true,1,25,0,6,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,3204,robe of defensive magic(t2),방어 마법 시전 방어구 (약간 높은 방어 수치),icon_item_robe_defensive,1,0,1,3,true,1,40,0,7,3001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,3205,robe of defensive magic(t3),방어 마법 시전 방어구 (약간 높은 방어 수치),icon_item_robe_defensive,1,0,1,3,true,1,65,0,8,3002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,3206,robe of destruction magic(1t),공격력 버프 마법 시전 방어구 (약간 높은 공격 수치),icon_item_robe_destructive,1,0,1,3,true,1,0,6,0,3005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,3207,robe of destruction magic(2t),공격력 버프 마법 시전 방어구 (약간 높은 공격 수치),icon_item_robe_destructive,1,0,1,3,true,1,0,7,0,3006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,3208,robe of destruction magic(3t),공격력 버프 마법 시전 방어구 (약간 높은 공격 수치),icon_item_robe_destructive,1,0,1,3,true,1,0,8,0,3007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,3300,mystic gloves(1t),일반 수치 장갑 방어구,icon_item_gloves_mythic,1,0,1,3,true,2,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,3301,mystic gloves(2t),일반 수치 장갑 방어구,icon_item_gloves_mythic,1,0,1,3,true,2,15,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,3302,mystic gloves(3t),일반 수치 장갑 방어구,icon_item_gloves_mythic,1,0,1,3,true,2,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,3303,magic jewelry gloves(1t),"약간의 공격력, 약간의 쿨타임 감소",icon_item_gloves_magic_jewel,1,0,1,3,true,2,0,2,0,0,0,0,0,0,0,0,0.05,0,0,0,0,0,0,0,0
+22,3304,magic jewelry gloves(2t),"약간의 공격력, 약간의 쿨타임 감소",icon_item_gloves_magic_jewel,1,0,1,3,true,2,0,3,0,0,0,0,0,0,0,0,0.08,0,0,0,0,0,0,0,0
+23,3305,magic jewelry gloves(3t),"약간의 공격력, 약간의 쿨타임 감소",icon_item_gloves_magic_jewel,1,0,1,3,true,2,0,4,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0
+24,3306,fast caster gloves(1t),일반 수치 쿨타임 감소,icon_item_gloves_fast_caster,1,0,1,3,true,2,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0
+25,3307,fast caster gloves(1t),일반 수치 쿨타임 감소,icon_item_gloves_fast_caster,1,0,1,3,true,2,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0,0,0,0,0,0
+26,3308,fast caster gloves(1t),일반 수치 쿨타임 감소,icon_item_gloves_fast_caster,1,0,1,3,true,2,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0
+27,3400,mystic shoes(1t),일반 수치 신발 방어구,icon_item_shoes_mythic,1,0,1,3,true,3,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,3401,mystic shoes(2t),일반 수치 신발 방어구,icon_item_shoes_mythic,1,0,1,3,true,3,15,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,3402,mystic shoes(3t),일반 수치 신발 방어구,icon_item_shoes_mythic,1,0,1,3,true,3,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,3403,feather deco shoes(1t),이동속도 신발,icon_item_shoes_feather,1,0,1,3,true,3,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+31,3404,feather deco shoes(2t),이동속도 신발,icon_item_shoes_feather,1,0,1,3,true,3,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+32,3405,feather deco shoes(3t),이동속도 신발,icon_item_shoes_feather,1,0,1,3,true,3,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+33,3406,hoof shoes(1t),아이템 획득 범위 증가 신발,icon_item_shoes_hoof,1,0,1,3,true,3,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+34,3407,hoof shoes(2t),아이템 획득 범위 증가 신발,icon_item_shoes_hoof,1,0,1,3,true,3,0,0,3,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+35,3408,hoof shoes(3t),아이템 획득 범위 증가 신발,icon_item_shoes_hoof,1,0,1,3,true,3,0,0,4,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0

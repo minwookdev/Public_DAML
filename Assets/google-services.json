@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156739218297",
+    "project_id": "dungeonandmagiclight",
+    "storage_bucket": "dungeonandmagiclight.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156739218297:android:f03387e01977a656635da8",
+        "android_client_info": {
+          "package_name": "com.CoffeeCat.DungeonMagicLight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACyBxBkvQTPNz7hfzH78CqpHGUAvKo7FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

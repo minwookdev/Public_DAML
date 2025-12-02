@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UICamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hide
+  - Water
+  - UI
+  - MainCamUI
+  - Player
+  - A*Unmoveable
+  - A*Terrain2
+  - A*Terrain1
+  - Monster
+  - Monster_Ground
+  - Interactive
+  - ItemAquisition
+  - Item
+  - MonsterProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Cameras
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Under
+    uniqueID: 2183998597
+    locked: 0
+  - name: Character_Shadow
+    uniqueID: 845490615
+    locked: 0
+  - name: Character_Player
+    uniqueID: 2697228143
+    locked: 0
+  - name: Character_Monster
+    uniqueID: 3703379381
+    locked: 0
+  - name: Item
+    uniqueID: 3687875361
+    locked: 0
+  - name: Interior
+    uniqueID: 1456836823
+    locked: 0
+  - name: Character_Skill
+    uniqueID: 429902169
+    locked: 0
+  - name: Top
+    uniqueID: 1722459879
+    locked: 0
+  - name: DamageText
+    uniqueID: 2478367459
+    locked: 0
+  - name: UI
+    uniqueID: 3930172155
+    locked: 0

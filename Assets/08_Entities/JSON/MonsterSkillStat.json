@@ -1,0 +1,18 @@
+[
+  {
+    "Key": "monster_attack_fireball",
+    "Name": "Fire Ball",
+    "Desc": "",
+    "Damage": "0",
+    "Ratio": "1",
+    "Cost": "0"
+  },
+  {
+    "Key": "monster_skill_expsphere",
+    "Name": "Explosion Sphere",
+    "Desc": "",
+    "Damage": "0",
+    "Ratio": "1",
+    "Cost": "0"
+  }
+]

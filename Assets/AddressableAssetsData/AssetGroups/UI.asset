@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f829f74514bbe4946af1a669bfbca50b
+  m_SerializeEntries:
+  - m_GUID: 7b013d8e06c644147b78a90424e3a4f4
+    m_Address: icon_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b77206969041047ec9de576851f5d5a6
+    m_Address: icon_potion_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 977c4096baf39402ba9189c178750b19
+    m_Address: icon_gemstone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc715da2bc5d74b82997a8323d33a51f
+    m_Address: icon_exp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2e2101f41e44f16afc77d98dc75b99
+    m_Address: icon_skill_active
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 860baa3d639cd496280ac75b233e0b83
+    m_Address: icon_skill_passive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7687bd89acc2d0840ac487af8a4b28f6
+    m_Address: SkillPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc00c0ca877114ef0a1d00ce0884db36
+    m_Address: exp_small
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11e712aa803114f389945c85e98553d0
+    m_Address: exp_medium
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d93d38b5dd254e9ea9cd363d189ca3a
+    m_Address: exp_large
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcc5c975c38f6414dacfedef6b3b9084
+    m_Address: icon_skill_add_projectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d577b3fbfadefd49949c7eb73ce595a
+    m_Address: icon_skill_beam
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e58b73a0febb944793cfa0900958019
+    m_Address: icon_skill_bleeding
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8898883cd55a89642ace1d12266fa9be
+    m_Address: icon_skill_block
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b65bb15c6241da4fac30c35885ad758
+    m_Address: icon_skill_blood_fang
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ff30e795060de34f9761540d5526c20
+    m_Address: icon_skill_bounced_knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb9e2cbdb70e4fb42b222b2a28a7470b
+    m_Address: icon_skill_bubble
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88cbc06af19e56a44a23a9c910d41fe2
+    m_Address: icon_skill_casting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cfbd877c832a594cbf816941f928f95
+    m_Address: icon_skill_concentration
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8bbf3789fd790c46bdeab044a6a001a
+    m_Address: icon_skill_explosion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08d144efcb020ce4f9a24e6c1c786ff5
+    m_Address: icon_skill_grenade
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6285ecc38f192cd4e8c79351dae73d64
+    m_Address: icon_skill_increase_damage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12b047f0c0d464748a0ff18b21c2806c
+    m_Address: icon_skill_inst_kill
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 895a51f0fea61534e9bb61edbce4ccb6
+    m_Address: icon_skill_iron_skin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2b43ee63882a4643a321f270c837d8e
+    m_Address: icon_skill_knockback
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d58a541639ca6aa48bfc342212dadd8b
+    m_Address: icon_skill_magnetic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9867cb6b1827adf43a01b94d30aac3ab
+    m_Address: icon_skill_move_speed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f458f58992bf4744194d2d5077e920bb
+    m_Address: icon_skill_normal_attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b07a08c47e83a94caf9aaa792b94986
+    m_Address: icon_skill_poison_flask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62339575fa0416c4c93b35300c2f91c8
+    m_Address: icon_skill_search
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 986f576bc56f0cf4e9d25969ad615166
+    m_Address: icon_skill_shock_field
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f665e5a30e6a0246bd0007bfe25313f
+    m_Address: icon_item_robe_destructive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60627d4c97351974a991f13e33e76928
+    m_Address: icon_item_staff_sapphire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98d0bbfbb1b34bc45ac2562fc94c354c
+    m_Address: icon_item_robe_mystic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cae294c475e6b44b82bdacf54124c54
+    m_Address: icon_item_gloves_magic_jewel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 968431f1d5771144684f927c4ec7a3a1
+    m_Address: icon_item_shoes_feather
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 711ecfb32d3323842adf630f1ecc7b76
+    m_Address: icon_item_staff_ruby
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67a3a51929634e948b790bb7cef689c8
+    m_Address: icon_item_staff_mythic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 343bb775e8c68c74b83295843fea2d0e
+    m_Address: icon_item_shoes_hoof
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c825b990e341a84ea4ea04350a8bfa0
+    m_Address: icon_item_gloves_mythic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6ebfe0d39469414da00a51e4ac12dfe
+    m_Address: icon_item_shoes_mythic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb80cf78f89302c459147b6bb0f50304
+    m_Address: icon_item_robe_defensive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97b24ad3dccd8a6449e32d6c53d12304
+    m_Address: icon_item_gloves_fast_caster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de58412a210eadd4e90573beece9edaa
+    m_Address: dungeon_icon_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58f22ea63462f0c4aa711e6c7e2b8918
+    m_Address: icon_ability_defense
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0965b7bdfa83416439d0c331ba64aaf5
+    m_Address: icon_ability_moveSpeed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a1b67614bf2ae747bddf50f5db9747e
+    m_Address: icon_ability_maxHp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 626d91ee7263e99478d83a3977e56b0f
+    m_Address: icon_ability_itemAcq
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c5033a765bc149b8aa9d18a8ec77284
+    m_Address: icon_stat_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59ac4ea5558e9481a80dc3f21af17028
+    m_Address: icon_stat_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 52120b8b1ef25294e977502d0fca6a8c, type: 2}
+    - {fileID: 11400000, guid: c79f12100f4a6444d80af8b9e9973e5b, type: 2}

@@ -1,0 +1,98 @@
+[
+  {
+    "Id": "2000",
+    "NameKey": "Heal Item (t0)",
+    "DescKey": "Heal Item (t0)",
+    "IconKey": "icon_potion_red",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "20"
+  },
+  {
+    "Id": "2001",
+    "NameKey": "Heal Item (t1)",
+    "DescKey": "Heal Item (t1)",
+    "IconKey": "icon_potion_red",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "50"
+  },
+  {
+    "Id": "2002",
+    "NameKey": "Heal Item (t2)",
+    "DescKey": "Heal Item (t2)",
+    "IconKey": "icon_potion_red",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "100"
+  },
+  {
+    "Id": "2003",
+    "NameKey": "Exp Force",
+    "DescKey": "Exp",
+    "IconKey": "icon_exp",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "1"
+  },
+  {
+    "Id": "2004",
+    "NameKey": "Exp Full",
+    "DescKey": "Exp",
+    "IconKey": "icon_exp",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "1"
+  },
+  {
+    "Id": "2005",
+    "NameKey": "Exp Small",
+    "DescKey": "Exp",
+    "IconKey": "exp_small",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "20"
+  },
+  {
+    "Id": "2006",
+    "NameKey": "Exp Medium",
+    "DescKey": "Exp",
+    "IconKey": "exp_medium",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "50"
+  },
+  {
+    "Id": "2007",
+    "NameKey": "Exp Large",
+    "DescKey": "Exp",
+    "IconKey": "exp_large",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "2",
+    "IsUpdated": "true",
+    "Value": "100"
+  }
+]

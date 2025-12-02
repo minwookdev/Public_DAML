@@ -1,0 +1,5 @@
+idx;Key;Name;Desc;Damage;Ratio;Cost
+;;;;;;
+0;s;s;s;f;f;f
+1;monster_attack_fireball;Fire Ball;;0;1;0
+2;monster_skill_expsphere;Explosion Sphere;;0;1;0

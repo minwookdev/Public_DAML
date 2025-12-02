@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkeletonDataAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: SkeletonDataAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 81015a5456b265d4cbee0adc066c083a
+  m_SerializeEntries:
+  - m_GUID: 76954bacb268a2741948eaee7e08e44f
+    m_Address: Flame_Magician(2)_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09b5c94f6f48b704e9ef6c3b72d2528b
+    m_Address: Clown_Magician(2)_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ed3a1291b51c0a4ab01ac8015d7c986
+    m_Address: Flame_Magician(1)_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11af938620cc3dd42ab9113fbca02ed0
+    m_Address: Clown_Magician(1)_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5142afe927e179d4596852f32b814cab
+    m_Address: Flower_Pink_Magician(1)_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b22f67ead0b15754284260bfb8f02529
+    m_Address: Flower_Pink_Magician(2)_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aed709af884aa8e47982985f7f42c071, type: 2}
+    - {fileID: 11400000, guid: e402003b17d9f7b448710199a8d44e0b, type: 2}

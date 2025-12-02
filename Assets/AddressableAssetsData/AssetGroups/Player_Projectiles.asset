@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Player_Projectiles
+  m_EditorClassIdentifier: 
+  m_GroupName: Player_Projectiles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bbc00df7a0176ff43814d7bc11c71370
+  m_SerializeEntries:
+  - m_GUID: 6c4b11eba4c0b8f4eb59113b0953790b
+    m_Address: NormalAttack_Flower
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 467d8058db83a4b4f983151c9b0e437e
+    m_Address: Explosion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24395c685cdbd2e47b9011b3caddde9d
+    m_Address: Beam
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b586be43c90681447ab2a360f0581dce
+    m_Address: Bubble
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd45db929725b4f47bacdcf89fa79010
+    m_Address: NormalAttackUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cced665b94336fa4eb76d10afbbef6e6
+    m_Address: Passive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 161c564f2e5791542b1605a0f6ac5ece
+    m_Address: LevelUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92c245a489f7d824f877ee4bb7e30b21
+    m_Address: Bounce Knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a6ce2b63aea9c244b8b0ec1ec81a93a
+    m_Address: Grenade
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc82ebd31b4694e4aaf6a1f286c046e1
+    m_Address: NormalAttack_Flame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84adbee2efb5d0545868d77b8cdd436c
+    m_Address: NormalAttack_Clown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c7d0bf5bbeb125b4e969e1f995fa0086, type: 2}
+    - {fileID: 11400000, guid: f6cff23678cead94ca277c159dc1b36c, type: 2}

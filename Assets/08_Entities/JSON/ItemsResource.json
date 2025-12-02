@@ -1,0 +1,13 @@
+[
+  {
+    "Id": "1000",
+    "NameKey": "Coin",
+    "DescKey": "shrine gold coin.",
+    "IconKey": "icon_coin",
+    "Amount": "1",
+    "Price": "0",
+    "Grade": "1",
+    "Type": "1",
+    "IsUpdated": "true"
+  }
+]

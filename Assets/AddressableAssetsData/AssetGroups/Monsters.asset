@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Monsters
+  m_EditorClassIdentifier: 
+  m_GroupName: Monsters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7eeee9a78337ec540a7e435df0116f3f
+  m_SerializeEntries:
+  - m_GUID: d2b16d8589662b44aa215c986fe29eea
+    m_Address: Skeleton_Mage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6666feff2eac92f44a59013c09e35cd6
+    m_Address: GroupSpawnPositions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77ca42d2e91b7ba4d8e27e974bfa9198
+    m_Address: Skeleton_Warrior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9ec95cbffa9e6542ba3746da4d45b0a
+    m_Address: Skeleton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dbe5ee18ab335204aa4ed8161071c35f, type: 2}
+    - {fileID: 11400000, guid: e016f3fb77e7ddf4c8b7eb2e7c8d5e05, type: 2}

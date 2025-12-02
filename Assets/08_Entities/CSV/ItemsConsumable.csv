@@ -1,0 +1,11 @@
+idx,Id,NameKey,DescKey,IconKey,Amount,Price,Grade,Type,IsUpdated,Value
+,,,,,,,,,,
+,int,string,string,string,int,int,enum,enum,bool,float
+0,2000,Heal Item (t0),Heal Item (t0),icon_potion_red,1,0,1,2,true,20
+1,2001,Heal Item (t1),Heal Item (t1),icon_potion_red,1,0,1,2,true,50
+2,2002,Heal Item (t2),Heal Item (t2),icon_potion_red,1,0,1,2,true,100
+3,2003,Exp Force,Exp,icon_exp,1,0,1,2,true,1
+4,2004,Exp Full,Exp,icon_exp,1,0,1,2,true,1
+5,2005,Exp Small,Exp,exp_small,1,0,1,2,true,20
+5,2006,Exp Medium,Exp,exp_medium,1,0,1,2,true,50
+5,2007,Exp Large,Exp,exp_large,1,0,1,2,true,100

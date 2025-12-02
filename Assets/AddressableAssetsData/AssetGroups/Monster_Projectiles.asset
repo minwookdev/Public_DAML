@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Monster_Projectiles
+  m_EditorClassIdentifier: 
+  m_GroupName: Monster_Projectiles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aca356236ccb4794ab45b84adca9f5c1
+  m_SerializeEntries:
+  - m_GUID: 86002558d81bef8499d81d827783fb50
+    m_Address: monster_attack_fireball
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1bb098ba61129894891dcdfa79ac314d, type: 2}
+    - {fileID: 11400000, guid: aae857e489c3772459adfa36e93dc85f, type: 2}

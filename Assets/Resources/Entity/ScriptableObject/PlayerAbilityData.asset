@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf10286a6f2b25548922c6a1517bc068, type: 3}
+  m_Name: PlayerAbilityData
+  m_EditorClassIdentifier: 
+  playerAbilities:
+  - type: 0
+    Index: 0
+    AbilityName: "\uAC15\uCCA0 \uCCB4\uB825"
+    MaxLevel: 5
+    Value: 10
+    Price: 1000
+    PriceIncrease: 1000
+    Description: "\uCD5C\uB300 \uCCB4\uB825\uC774 \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  - type: 2
+    Index: 1
+    AbilityName: "\uC2E0\uC18D"
+    MaxLevel: 3
+    Value: 0.1
+    Price: 2500
+    PriceIncrease: 1500
+    Description: "\uC774\uB3D9\uD558\uB294 \uC18D\uB3C4\uAC00 \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  - type: 10
+    Index: 2
+    AbilityName: "\uC218\uD655"
+    MaxLevel: 5
+    Value: 0.25
+    Price: 1500
+    PriceIncrease: 1000
+    Description: "\uC544\uC774\uD15C\uC744 \uC218\uC9D1\uD558\uB294 \uBC94\uC704\uAC00
+      \uB113\uC5B4\uC9D1\uB2C8\uB2E4."

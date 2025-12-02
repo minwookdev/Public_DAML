@@ -1,0 +1,4 @@
+idx,Id,NameKey,DescKey,IconKey,Amount,Price,Grade,Type,IsUpdated
+,,,,,,,,,
+,int,string,string,string,int,int,enum,enum,bool
+0,1000,Coin,shrine gold coin.,icon_coin,1,0,1,1,true

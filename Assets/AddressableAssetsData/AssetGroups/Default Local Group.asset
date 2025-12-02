@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2a9c66888d6497e4ca032fdddd0ac198
+  m_SerializeEntries:
+  - m_GUID: 98bf305dffc467d4e9c8016567cc63dd
+    m_Address: TestAddressablesObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7737dbb3bece6674fbf1fb0bd97515d9
+    m_Address: TilesGuide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6302ae2ec96724442b087b403f853576
+    m_Address: skill_selector_fireball
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3985049eb5994ee46ba0e4f28de5e699
+    m_Address: skill_selector_lightning
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2396d8d31a501041b3e74090d983423
+    m_Address: portal_dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1baf84bc29d794c47888b01c603664c6
+    m_Address: portal_town
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeee623be74beab4c9c71729da7b712a
+    m_Address: portal_shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7345a45ade2ff94438f6d6f45f19bdca
+    m_Address: Canvas_Input
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12333dd06064aa9478998e4715a15333
+    m_Address: portal_reward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 886616a4c9aa5c04084c8034996e865c
+    m_Address: portal_floor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db7f65ca27ba8ad4185c0bb6441a9b61
+    m_Address: monster_health_bar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bb9ba5ed18adc7458343c72ebff9a51
+    m_Address: object_item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8348c13add7f480419e9d46a00ee6d24
+    m_Address: object_start_room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1862ee16f9005d542a8920b99b84fcde
+    m_Address: Flower_Dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8437db462d532b47a9f9c0b283e7ced
+    m_Address: Flame_Dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e24ce3df4d2f3541936eb8a7932dc14
+    m_Address: Clown_Dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e383c8e4bbb2134695fdc75535b3201
+    m_Address: Iron Skin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e97f9417df95b1428250ea33a2a5060
+    m_Address: evasion_effect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36fa6cd7578529a49a2be677d751a734
+    m_Address: monster_skill_expsphere
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c5be0191683c14f8feb7e4d77c7335
+    m_Address: portal_floor_boss
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3db416f98a3f2e44c83c2042ff8b3a26
+    m_Address: Assets/06_Sounds/Se/se_currency_used.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5ed59c197b30a6f4e98c355416f5842e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 23130efffe631b547b26a2063f4a7eb7, type: 2}
+    - {fileID: 11400000, guid: 042cd62801e9e4940832ca0340b6304a, type: 2}

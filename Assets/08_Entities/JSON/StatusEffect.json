@@ -1,0 +1,162 @@
+[
+  {
+    "Index": "0",
+    "Name": "Lock",
+    "Desc": "잠금",
+    "Level": "-1",
+    "Damage": "-1",
+    "Duration": "-1",
+    "Interval": "-1",
+    "EffectType": "0"
+  },
+  {
+    "Index": "1000",
+    "Name": "Poison",
+    "Desc": "독",
+    "Level": "1",
+    "Damage": "1",
+    "Duration": "2.1",
+    "Interval": "0.5",
+    "EffectType": "1000"
+  },
+  {
+    "Index": "1001",
+    "Name": "Poison",
+    "Desc": "독",
+    "Level": "2",
+    "Damage": "2",
+    "Duration": "2.6",
+    "Interval": "0.5",
+    "EffectType": "1000"
+  },
+  {
+    "Index": "1002",
+    "Name": "Poison",
+    "Desc": "독",
+    "Level": "3",
+    "Damage": "3",
+    "Duration": "2.9",
+    "Interval": "0.4",
+    "EffectType": "1000"
+  },
+  {
+    "Index": "1003",
+    "Name": "Poison",
+    "Desc": "독",
+    "Level": "4",
+    "Damage": "4",
+    "Duration": "3.3",
+    "Interval": "0.4",
+    "EffectType": "1000"
+  },
+  {
+    "Index": "1004",
+    "Name": "Poison",
+    "Desc": "독",
+    "Level": "5",
+    "Damage": "5",
+    "Duration": "3.7",
+    "Interval": "0.3",
+    "EffectType": "1000"
+  },
+  {
+    "Index": "1005",
+    "Name": "Bleeding",
+    "Desc": "출혈",
+    "Level": "1",
+    "Damage": "1",
+    "Duration": "2.1",
+    "Interval": "0.25",
+    "EffectType": "1001"
+  },
+  {
+    "Index": "1006",
+    "Name": "Bleeding",
+    "Desc": "출혈",
+    "Level": "2",
+    "Damage": "1",
+    "Duration": "2.6",
+    "Interval": "0.25",
+    "EffectType": "1001"
+  },
+  {
+    "Index": "1007",
+    "Name": "Bleeding",
+    "Desc": "출혈",
+    "Level": "3",
+    "Damage": "2",
+    "Duration": "3.1",
+    "Interval": "0.25",
+    "EffectType": "1001"
+  },
+  {
+    "Index": "1008",
+    "Name": "Bleeding",
+    "Desc": "출혈",
+    "Level": "4",
+    "Damage": "2",
+    "Duration": "3.6",
+    "Interval": "0.25",
+    "EffectType": "1001"
+  },
+  {
+    "Index": "1009",
+    "Name": "Bleeding",
+    "Desc": "출혈",
+    "Level": "5",
+    "Damage": "3",
+    "Duration": "4.1",
+    "Interval": "0.25",
+    "EffectType": "1001"
+  },
+  {
+    "Index": "1025",
+    "Name": "Stun",
+    "Desc": "기절",
+    "Level": "1",
+    "Damage": "0",
+    "Duration": "1",
+    "Interval": "0",
+    "EffectType": "1002"
+  },
+  {
+    "Index": "1026",
+    "Name": "Stun",
+    "Desc": "기절",
+    "Level": "2",
+    "Damage": "0",
+    "Duration": "1",
+    "Interval": "0",
+    "EffectType": "1002"
+  },
+  {
+    "Index": "1027",
+    "Name": "Stun",
+    "Desc": "기절",
+    "Level": "3",
+    "Damage": "0",
+    "Duration": "2",
+    "Interval": "0",
+    "EffectType": "1002"
+  },
+  {
+    "Index": "1028",
+    "Name": "Stun",
+    "Desc": "기절",
+    "Level": "4",
+    "Damage": "0",
+    "Duration": "2",
+    "Interval": "0",
+    "EffectType": "1002"
+  },
+  {
+    "Index": "1029",
+    "Name": "Stun",
+    "Desc": "기절",
+    "Level": "5",
+    "Damage": "0",
+    "Duration": "3",
+    "Interval": "0",
+    "EffectType": "1002"
+  }
+]
